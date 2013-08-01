@@ -2,15 +2,5 @@
     "name": "whiskchat-server",
     "version": "1.0.2",
     "author": "WhiskTech",
-    "description": "a fork of coinchat",
-    "dependencies" : {
-	"socket.io"   :  "*",
-	"redis" :  "*",
-	"node_hash" :  "*",
-	"crypto"    :  "*",
-	"express"   :  "*",
-        "inputs.io" :  "git://github.com/jacobtorba/inputs.io-node#master",
-        "random"    :  "*",
-        "bbcode"    :  "git://github.com/whiskers75/whiskchat-bbcode#master"
-    }
+    "description": "a fork of coinchat"
 }
